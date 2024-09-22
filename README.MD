@@ -65,10 +65,3 @@ Now, your application should be running at `localhost:3000`.
 Note:
 - The Django server should be running at the same time as the React application for the system to function properly.
 - The application uses the email field instead of the username field for user identification.
-
-
-## Task
-1. Add an input field for the user's Ethereum wallet address to the registration page. When a user registers an account, this wallet address must be saved to the database.
-2. After login, the homepage must show the balance of the user's Ethereum wallet address.
-
-Commit your code to your personal git and share the link.
